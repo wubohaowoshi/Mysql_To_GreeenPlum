@@ -1,0 +1,2 @@
+# Mysql_To_GreeenPlum
+FlinkCDC实时入湖，完成Mysql字段筛选、字段映射、行过滤和DDL断点续传等功能到GreeenPlum
